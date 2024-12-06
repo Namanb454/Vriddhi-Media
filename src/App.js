@@ -5,7 +5,7 @@ import Home from './pages/Home';
 function App() {
   const locomotiveScroll = new LocomotiveScroll();
   return (
-    <div className="App  font-[poppins]">
+    <div className="App poppins-medium">
       <Home />
     </div>
   );
